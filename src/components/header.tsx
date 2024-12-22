@@ -12,7 +12,7 @@ const Header = () => {
         <Link href="/about">About</Link>
         <Link href="/rc-cars">RC Cars</Link>
         <Link href="/contact">Contact</Link>
-        <FaShoppingCart style={{ color: 'white', fontSize: '20px' }} />
+        <FaShoppingCart style={{ fontSize: '20px' }} />
       </nav>
     </header>
   );
